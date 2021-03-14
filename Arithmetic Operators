@@ -1,0 +1,11 @@
+#Arithmetic Operators
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    add=int(a+b)
+    sub=int(a-b)
+    mul=int(a*b)
+    print(add)
+    print(sub)
+    print(mul)
